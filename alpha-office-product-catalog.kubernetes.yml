@@ -5,7 +5,7 @@ metadata:
   labels:
     commit: 4ca160fd05c003e5067fd6d9c8213656b24b962c
 spec:
-  replicas: 2
+  replicas: 0
   selector:
     matchLabels:
       app: product-catalog-app
